@@ -1,6 +1,6 @@
 # Dental Practice Web Application
 
-A web application that allows end-users to log in to the web application dashboard, pulls data from the existing client database, guides users in cleaning the exported data, and provides documentation on how to use the app. The project focuses on implementing security measures to keep the data safe.
+A web application that allows end-users to log in to the web application dashboard, pulls data from the existing client database, guides users in cleaning the exported data, and provides documentation on how to use the app, as well as gives end-users access to look at data 
 
 ## Table of Contents
 
@@ -23,7 +23,7 @@ The project utilizes a sustainable tech stack that ensures the longevity and mai
 - Frontend: HTML, CSS, JavaScript
 - Security: Encryption techniques, secure token-based authentication
 
-## Usage
+## Use
 
 The Dental Practice Web Application provides a straightforward and intuitive user interface. Users can perform the following actions:
 
@@ -31,14 +31,12 @@ The Dental Practice Web Application provides a straightforward and intuitive use
 - Access the dashboard to view client data.
 - Export the data to perform cleaning and preprocessing.
 - Follow the guided process to clean and validate the exported data.
-- Utilize the cleaned data for analysis, reporting, or any other purposes.
-
-For more detailed instructions on using the application, refer to the [user documentation](docs/user-manual.md).
+- Utilize the cleaned data for analysis and reporting
 
 ## Contributions
 
 For this project, my primary contributions were focused on the backend and SQL portion. Specifically, my contributions include:
 
 - Migrating and implementing the project to its own server(cloudways)
-- Implementing the database integration and query mechanisms using SQL.
+- Implementing database integration and query using SQL.
 - Ensuring data security through encryption techniques and secure authentication.
