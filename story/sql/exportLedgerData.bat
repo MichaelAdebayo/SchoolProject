@@ -1,0 +1,1 @@
+bcp "SELECT Date,Pr,Total FROM [ClearDent].[dbo].[Vw_Ledger] WHERE Pr IS NOT NULL" queryout C:\Users\punya\Documents\Priyam\sqlexports\LedgerData_$(ESCAPE_SQUOTE(DATE)).csv -c -t "," -T -S LAPTOP-786BHK21
