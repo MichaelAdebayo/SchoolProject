@@ -107,10 +107,10 @@ if(isset($_POST['dbimport'])){
 }
 
 //database
-define('DB_HOST', 'loki.trentu.ca');
-define('DB_USERNAME', 'sidaksinghsra');
-define('DB_PASSWORD', 'Sidak@8121');
-define('DB_NAME', 'sidaksinghsra');
+define('DB_HOST', '');
+define('DB_USERNAME', '');
+define('DB_PASSWORD', '');
+define('DB_NAME', '');
 
 //get connection
 $mysqli = new mysqli(DB_HOST, DB_USERNAME, DB_PASSWORD, DB_NAME);
