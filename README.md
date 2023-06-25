@@ -1,6 +1,12 @@
 # Dental Practice Web Application
 
-A web application that allows end-users to log in to the web application dashboard, pulls data from the existing client database, guides users in cleaning the exported data, and provides documentation on how to use the app, as well as gives end-users access to look at data 
+A web application that allows end-users to log in to the web application dashboard, pulls data from the existing client database, guides users in cleaning the exported data, and provides documentation on how to use the app, as well as gives end-users access to look at data.
+
+**Note: This project was originally developed as a school project by a team of contributors, including myself.**
+
+## Table of Contents
+
+- [About](#about)
 
 ## Table of Contents
 
